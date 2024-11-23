@@ -3,6 +3,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 import libf
 
+# Programacion numerica y no numerica-tarea 6
+
+    # ANDERSON ESCOBAR - DCN0501IIV1
+    # ALBERT RANGEL - DCN0501IIV1
+
+
 def f(x):
     """Función a graficar."""
     return x**3 + x
